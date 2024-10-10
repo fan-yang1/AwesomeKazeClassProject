@@ -21,6 +21,7 @@
 - [PyxcellR, Aditya](https://github.com/adityasuru95/pyxcellr)
 - [Titan Track, Haoruo Zhang](https://github.com/haoruo-zhang/Software-Engineering-for-Data-Science.git)
 - [LLM-Recommender, Sayantan Choudhury](https://github.com/isayantan/LLM-Recommender)
+- [Integrated-Chatbot, Fan Yang](https://github.com/fan-yang1/Integrated-Chatbot)
 ## Software Engineering for Data Science 2024 JHU
 
 
